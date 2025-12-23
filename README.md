@@ -88,7 +88,7 @@ Palatine Speech предоставляет сервис распознавани
 ## 📚 Полезные ресурсы
 
 
-* [Palatine Speech API](https://docs.speech.palatine.ru/documentation/quick_start/transcription)
+* [Документация Palatine Speech](https://docs.speech.palatine.ru/documentation/quick_start/transcription)
 * [Руководство по Community Nodes в n8n](https://docs.n8n.io/integrations/community-nodes/)
 * [Официальный GitHub n8n](https://github.com/n8n-io/n8n)
 

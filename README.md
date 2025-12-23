@@ -62,7 +62,7 @@ Palatine Speech предоставляет сервис распознавани
 
 
 1. `Read Binary Files` → выбрать файл `.mp3`
-2. `Palatine Transcriber`
+2. `Palatine Speech`
 
 
   * Binary Property: `data`

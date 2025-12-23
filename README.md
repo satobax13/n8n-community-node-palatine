@@ -100,7 +100,7 @@ Palatine Speech предоставляет сервис распознавани
 
 
 
-`n8n-community-node-package`, `n8n`, `palatine`, `speech-to-text`, `transcription`, `stt`, `audio`, `ai`, `automation`, `voice-to-text`, `speech-recognition`, `audio-transcription`, `audio2text`, `audio-processing`
+n8n-community-node-package, n8n, palatine, speech-to-text, transcription, stt, audio, ai, automation, voice-to-text, speech-recognition, audio-transcription, audio2text, audio-processing
 ---
 
 

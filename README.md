@@ -48,7 +48,7 @@ Palatine Speech предоставляет сервис распознавани
 3. Заполните поля:
 
 
-  * **API Key** — ваш секретный токен из панели Palatine Speech
+  * **API Key** — ваш секретный токен из личного кабинета Palatine Speech
   * **Base URL** — обычно `https://api.palatine.ru` (значение по умолчанию)
 
 

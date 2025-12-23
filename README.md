@@ -44,7 +44,7 @@ Palatine Speech предоставляет сервис распознавани
 
 
 1. Перейдите в **Credentials → + Create**
-2. Найдите **Palatine Transcriber API**
+2. Найдите **Palatine Speech API**
 3. Заполните поля:
 
 
